@@ -1,2 +1,2 @@
 # PMI-ACP
-Mys notes for PMI ACP exam
+Notes for PMI ACP exam
